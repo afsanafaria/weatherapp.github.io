@@ -39,6 +39,7 @@ body{
     border-radius: 5px;
     padding: 0 10px;
      text-align: center;
+    transition: 0.2s ease-out;
 }
 
 .input-box:focus{
